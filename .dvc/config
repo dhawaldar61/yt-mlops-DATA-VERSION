@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = S3://my-bucket/my-project
+    url = D:\YT-MLOPS-OOPS-TUT\yt-mlops-DATA-VERSION\S3
